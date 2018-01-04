@@ -1,0 +1,60 @@
+.clearfix{
+    display: block;
+    content: ".";
+    clear: both;
+}
+.list-content-top{
+    width: 100%;
+}
+
+.list-content-top img{
+    width: 100%;
+}
+
+.list-content-pice button{
+    margin-left: -178px;
+    margin-top: 250px;
+    width: 138px;
+}
+
+.content-pice{
+    width: 100%;
+    margin: auto;
+    background-color: #e3e6e6;
+}
+
+.list-content-pice{
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.list-content-pice .list{
+    float: left;
+}
+
+.btn-success{
+    color: #fff;
+    background-color: #67a01f;
+    border-color: #68a120;
+}
+
+.list-support{
+    float: left;
+    text-align: center;
+}
+
+.content-list-icon{
+    width: 100%;
+    padding: 20px 0;
+}
+
+.list-icon{
+    width: 80%;
+    margin: auto;
+}
+
+.contact-bot-right {
+    right: -827px;
+    top: 280px;
+}

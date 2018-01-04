@@ -1,0 +1,50 @@
+.clearfix{
+    display: block;
+    content: ".";
+    clear: both;
+}
+.list-content-top{
+    background-color: #434343;
+    width: 100%;
+    text-align: center;
+}
+
+.list-content-top img{
+    width: 100%;
+}
+
+.content-list{
+    width: 80%;
+    margin: auto;
+    border: 1px solid #c1bfbf;
+    padding: 10px 0;
+    margin-top: 10px;
+    background-color: #c5c5c3;
+}
+
+.list-content-text{
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.list-content{
+    width: 100%;
+    background-color: #dcdcd2;
+    height: 150px;
+}
+
+.pice-list{
+    width: 80%;
+    margin: auto;
+}
+
+.pice-list h2{
+    color: #ff7600;
+    padding: 20px 0;
+}
+
+.contact-bot-right {
+    right: -827px;
+    top: 280px;
+}

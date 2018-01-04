@@ -1,0 +1,57 @@
+html,body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    height: auto;
+}
+
+.clearfix::after{
+    display: block;
+    content: ".";
+    clear: both;
+}
+
+.app-header{
+    width: 100%;
+}
+
+.head-top{
+    padding: 0 10%;
+    background-color: #363636;
+}
+
+.top-phone{
+    float: left;
+}
+
+.top-login{
+    float: right;
+    margin-top: 8px;
+}
+
+.nav-item{
+    padding: 30px 20px;
+}
+.head-menu{
+    padding: 0 10%;
+    background-color: #3c3c3c;
+    border-style: groove;
+}
+
+
+
+
+.hover-underline-menu{
+	background-image: linear-gradient(#f56008,#f56008), linear-gradient(#3c3c3c, #3c3c3c);
+	 background-size: 0 5px, auto;
+  background-repeat: no-repeat;
+  background-position: center top;
+  transition: all .2s ease-out;
+}
+
+.hover-underline-menu:hover{
+    background-size: 100% 5px, auto;  
+    background-color: #c70f0f;
+}
+
+
+

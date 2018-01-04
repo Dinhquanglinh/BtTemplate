@@ -1,0 +1,125 @@
+.clearfix{
+    display: block;
+    content: ".";
+    clear: both;
+}
+
+.content-list-top{
+    color: #fff;
+    text-align: center;
+    background-color: #3c3c3c;
+}
+
+.content-list-top h2{
+    padding: 20px 0;
+}
+
+.content-list{
+    width: 100%;
+    background-color: #f1f1f1;
+    margin-top: -5px;
+}
+
+.list-backgroup{
+    width: 80%;
+    margin: auto;
+    padding: 10px 0;
+}
+
+.list-menu{
+    float: left;
+}
+
+.list-menu ul{
+    list-style-type: none;
+    margin-left: -50px;
+    border-radius: 2px;
+}
+
+.list-menu ul li{
+    border: 1px solid #c7c2c2;
+    padding: 10px;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px
+    rgba(0, 0, 0, 0.3), 0 0 40px
+    rgba(0, 0, 0, 0.1) inset;  
+}
+
+.list-menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.list-menu ul li a:hover{
+    color: #c7c2c2;
+}
+
+.list-text{
+    float: left;
+}
+
+.top-list{
+    float: left;
+}
+
+.text-list-center ul{
+    list-style-type: none;
+}
+
+.text-list-center ul li{
+    padding: 10px 0;
+    font-size: 16px;
+}
+
+.text-list-center ul li i{
+    padding-right: 10px;
+}
+
+.text-bottom{
+    border: 1px solid #c7c2c2;
+    padding: 10px;
+    background-color: #e2dcdc;
+}
+
+.text-bottom button{
+    margin-left: 365px;
+}
+
+.content-list-all{
+    width: 100%;
+}
+
+.list-all{
+    width: 80%;
+    margin: auto;
+}
+
+.list{
+    float: left;
+}
+
+.list img{
+    max-width: 229px;
+}
+
+.list-all-pice{
+    padding-top: 10px;
+}
+
+.list-all-pice .images{
+    padding-top: 10px;
+}
+.list button{
+    margin-top: -100px;
+    margin-left: 60px;
+    width: 120px;
+}
+
+.footer-list-address .form{
+    padding-top: -13px;
+}
+
+.contact-bot-right {
+    right: -827px;
+    top: 280px;
+}

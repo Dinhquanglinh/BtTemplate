@@ -1,0 +1,45 @@
+.footer-list{
+    background-color: #535353;
+}
+
+.list-children{
+    width: 80%;
+    margin: auto;
+    padding-top: 35px;
+    padding-bottom: 1px;
+}
+
+.list-children ul{
+    list-style-type: none;
+    float: left;
+}
+
+.list-children ul li{
+    padding: 5px 0;
+}
+
+.list-children ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.footer-list-coppy{
+    width: 100%;
+    background-color: #332f2f;
+    color: #ffffff;
+    padding: 15px 0;
+}
+
+.footer-list-coppy-left{
+    float: left;
+}
+
+.footer-list-coppy-right{
+    float: right;
+}
+
+.list-coppy{
+    width: 80%;
+    margin: auto;
+}

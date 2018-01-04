@@ -1,0 +1,95 @@
+.clearfix{
+    display: block;
+    content: ".";
+    clear: both;
+}
+
+.content-list-top{
+    background-color: #3c3c3c;
+}
+
+.content-list-top h2{
+    color: #fff;
+    padding: 20px 0;
+}
+
+.content-list-contact{
+    width: 100%;
+    background-color: #f3f3f3;
+    margin-top: -5px;
+}
+
+.contact-backgroup{
+    width: 80%;
+    margin: auto;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.left h2{
+    padding: 20px 0;
+    color: #2b9e2a;
+    border-bottom: 1px solid #cec4c4;
+}
+
+.map{
+    padding-top: 20px;
+}
+
+.form-inline button{
+    margin: 10px 0 20px 100px;
+    width: 100px;
+    background-color: coral;
+    border-color: coral;
+}
+
+.right h2{
+    padding: 20px 0;
+    color: coral;
+    border-bottom: 1px solid #cec4c4;
+}
+
+.form-group input{
+    padding-left: 10px;
+}
+
+.address-frames{
+    width: 80%;
+    margin: auto;
+}
+
+.list-address{
+    float: left;
+    color: #5d5757;
+    font-size: 13px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.list-address-icon ul{
+    list-style-type: none;
+}
+
+.list-address-icon ul li{
+    display: inline;
+}
+
+.list-address-icon ul li a{
+    text-decoration: none;
+}
+
+.list-address-icon{
+    float: left;
+    padding: 10px;
+}
+
+.contact-bot-right {
+    right: -827px;
+    top: 280px;
+}
